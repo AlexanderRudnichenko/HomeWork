@@ -1,0 +1,16 @@
+p
+	{
+	background: url(images/1.jpg);
+    display: block; /* Рисунок как блочный элемент */
+    width: 1000px; /* Ширина рисунка в пикселах */
+    height: 500px; /* Высота рисунка */
+	}
+
+   p:hover
+	{
+	   background: url(images/2.jpg);
+	   
+	}
+   
+   
+   
